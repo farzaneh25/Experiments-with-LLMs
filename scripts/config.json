@@ -1,0 +1,10 @@
+ {
+    "bert_model": "distilbert-base-uncased",
+    "batch_size" : 2,
+    "num_epochs" : 25,
+    "lr" : 2e-5,
+    "sequence_length": 512,
+    "patience": 3,
+    "save_model_dir": "model"
+
+}
